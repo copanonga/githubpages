@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Prueba de página"
-description: "It really is the best."
+description: "Descripción"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://copanonga.github.io/githubpages/"
 logo: # path of site logo, e.g. "/images/logo.png"
