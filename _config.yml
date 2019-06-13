@@ -101,3 +101,6 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: GitHub
+    url: https://github.com/copanonga
+    icon: fab fa-github-square
