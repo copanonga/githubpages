@@ -18,8 +18,8 @@ theme: # jekyll-theme-so-simple
 locale: en-US
 title: "Prueba de página"
 description: "Descripción"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://copanonga.github.io/githubpages/"
+baseurl: # the subpath of your site, e.g. "/blog" https://copanonga.github.io/githubpages/
+url: "https://copanonga.github.io/"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
